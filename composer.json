@@ -1,7 +1,7 @@
 {
-    "name": "league/flysystem-aws-s3-v3",
-    "description": "AWS S3 filesystem adapter for Flysystem.",
-    "keywords": ["aws", "s3", "flysystem", "filesystem", "storage", "file", "files"],
+    "name": "kakaska/flysystem-aws-s3-v3",
+    "description": "Satis friendly fork of AWS S3 filesystem adapter for Flysystem.",
+    "keywords": ["aws", "s3", "flysystem", "filesystem", "storage", "file", "files", "satis"],
     "type": "library",
     "autoload": {
         "psr-4": {
